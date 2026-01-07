@@ -73,6 +73,8 @@ bool dfs(int count) {
 	return false;
 }
 
+// 아래는 오답 코드임. 참고용으로 남겨둠.
+
 // #include <iostream>
 // #include <vector>
 
